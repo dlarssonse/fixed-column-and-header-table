@@ -1,0 +1,7 @@
+{
+  "$schema": "../../../node_modules/ng-packagr/ng-package.schema.json",
+  "dest": "../../../dist/dlarsson-se/fixed-column-and-header-table",
+  "lib": {
+    "entryFile": "src/public_api.ts"
+  }
+}
