@@ -1,0 +1,7 @@
+dist/test/
+test/
+lib/
+tsconfig.json
+tslint.json
+jestconfig.json
+.prettierrc
